@@ -31,18 +31,14 @@ Write a Python script that generates a fun and creative story (Madlib) based on 
    - Prompt the user for a noun, a verb, an adjective, two numbers, and other types of words your story requires.
    - Store each user input in a separate variable.
 
-**Step 3: Perform a Mathematical Operation**
 
-4. Perform at least one mathematical operation using the two numeric inputs. For example, you could calculate the total number of items, the difference in years, or multiply a quantity.
-5. Store the result of this mathematical operation in a new variable.
+**Step 3: Generate the Madlib**
 
-**Step 4: Generate the Madlib**
+4. Use the user's input to fill in the blanks in your story template. You can use string concatenation or f-strings to insert the user's words and the result of your mathematical operation into the template.
 
-6. Use the user's input to fill in the blanks in your story template. You can use string concatenation or f-strings to insert the user's words and the result of your mathematical operation into the template.
+**Step 4: Output the Final Story**
 
-**Step 5: Output the Final Story**
-
-7. Print the final story with the user's words and the result of the mathematical operation inserted into the appropriate places.
+5. Print the final story with the user's words and the result of the mathematical operation inserted into the appropriate places.
 
 **Example**
 
@@ -83,7 +79,7 @@ Here is your Madlib story:
 Last summer, I went to the beach with my Aunt Lisa. We stayed there for 7 days, and it was amazing! During the trip, we saw 20 animals, which is 10 times less than expected!
 ```
 
-**Step 6: Customize Your Story (Optional)**
+**Step 5: Customize Your Story (Optional)**
 
-8. Get creative! Feel free to customize the story template, add more blanks, or even create multiple templates that the user can choose from.
+6. Get creative! Feel free to customize the story template, add more blanks, or even create multiple templates that the user can choose from.
 
